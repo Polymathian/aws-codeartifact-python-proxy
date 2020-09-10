@@ -2,6 +2,8 @@
 
 Proxies requests to AWS CodeArtifact Python for anonymous access
 
+![ci](https://github.com/Polymathian/aws-codeartifact-python-proxy/workflows/ci/badge.svg)
+
 ## Usage
 
 Best used as a Docker container with the following env vars
