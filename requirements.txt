@@ -1,0 +1,5 @@
+APScheduler==3.6.3
+boto3==1.14.57
+Flask==1.1.2
+Flask-BasicAuth==0.2.0
+requests==2.24.0

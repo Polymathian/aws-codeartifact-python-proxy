@@ -1,0 +1,9 @@
+# Compiled Python bytecode
+*.py[cod]
+
+# Virtualenv
+.venv
+venv
+
+# JetBrains IDE
+.idea/
