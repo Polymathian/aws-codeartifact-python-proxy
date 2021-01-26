@@ -30,7 +30,7 @@ if auth_incoming:
 
 
 # Token management
-client = boto3.client("codeartifact")
+client = boto3.client("codeartifact", region_name=codeartifact_region)
 AUTH_TOKEN: str
 
 
